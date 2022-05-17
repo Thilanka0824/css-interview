@@ -1,0 +1,30 @@
+div{
+    border: 5px solid rgb(59, 59, 216);
+    padding: 25px;
+    text-shadow: 10px;
+    background-color: rgb(236, 232, 192);
+    margin: 80px;
+    
+}
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    border-radius: 50px;
+}
+
+li{
+    margin: 10px;
+    font-style: italic;
+}
+      
+body{
+    background-image: url("https://perform-america-tx.com/wp-content/uploads/2017/09/San-Francisco-photo-768x425.jpg");
+}
+
