@@ -1,8 +1,8 @@
 div{
     border: 5px solid rgb(59, 59, 216);
     padding: 25px;
-    box-shadow: inset 10px 10px 10px 10px rgb(234, 140, 7);
-    background-color: rgb(255, 255, 255);
+    box-shadow: inset 10px 10px 100px 10px rgb(47, 45, 43);
+    background-color: rgb(221, 218, 21);
     margin: 100px;
     margin-bottom: 160px;
     border-radius: 25px;
@@ -27,6 +27,6 @@ li{
 }
       
 body{
-    background-image: url("https://perform-america-tx.com/wp-content/uploads/2017/09/San-Francisco-photo-768x425.jpg");
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/08/3d-textures.jpg");
 }
 
